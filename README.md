@@ -6,7 +6,6 @@
 - **Contato:**
   <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
     <p>Email: <a href="mailto:joaopedroszr@gmail.com">joaopedroszr@gmail.com</a></p>
-    <p>Instagram: <a href="https://instagram.com/joaotiff">instagram.com/joaotiff</a></p>
     <p>Portfólio: <a href="https://cvjoaopedro.netlify.app">cvjoaopedro.netlify.app</a></p>
   </div>
 - **Trabalho Atual:** Estagiário no GrupoGet
