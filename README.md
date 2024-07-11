@@ -3,11 +3,7 @@
 ### Joao P. Soares
 
 - **Área:** Desenvolvedor de Software
-- **Contato:**
-  - Email: [joaopedroszr@gmail.com](mailto:joaopedroszr@gmail.com)
-  - Portfólio: [cvjoaopedro.netlify.app](https://cvjoaopedro.netlify.app)
 - **Trabalho Atual:** Estagiário no GrupoGet
-- **Local:** Belo Horizonte/MG
 
 ### Formação Acadêmica
 
