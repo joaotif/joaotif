@@ -4,7 +4,6 @@
 
 - **Email**: [joaopedroszr@gmail.com](mailto:joaopedroszr@gmail.com)
 - **Área:** Desenvolvedor de Software
-- **Trabalho Atual:** Estagiário no GrupoGet
 
 ### Formação Acadêmica
 
