@@ -1,16 +1,28 @@
-## Hi there 👋
+require_once "JoaoPedro.php";
 
-<!--
-**joaotif/joaotif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class SobreMim extends Desenvolvedor {
+  public $nome = "Joao P. Soares";
+  public $area = "Desenvolvedor de Software";
+  public $contato = [
+      "joaopedroszr@gmail.com",
+      "instagram.com/joaotiff",
+      "cvjoaopedro.netlify.app"
+    ];
+  public $trabalho = "GrupoGet";
+  public $local = "Belo Horizonte/MG";
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends Desenvolvedor {
+  public $linguagens = [
+      "C#",
+      "java",
+      "JavaScript",
+      "PhP",
+      "SQL"
+    ];
+  public $bibliotecas = ["JQuery"];
+  public $frameworks = [
+      "Laravel",
+      "ReactJS",
+    ];
+}
