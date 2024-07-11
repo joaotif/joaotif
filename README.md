@@ -14,7 +14,7 @@
 
 ### Formação Acadêmica
 
-Atualmente, estou cursando o último ano do curso de Informática no Cotemig. Minha formação tem me proporcionado uma base sólida em diversas áreas da TI, preparando-me para enfrentar desafios do mercado de trabalho.
+Atualmente, estou cursando o último ano do curso de Tecnologia da Informação no Cotemig. Minha formação tem me proporcionado uma base sólida em diversas áreas da TI, preparando-me para enfrentar desafios do mercado de trabalho.
 
 ### Habilidades Técnicas
 
