@@ -4,10 +4,8 @@
 
 - **Área:** Desenvolvedor de Software
 - **Contato:**
-  <div style="background-color: #f0f0f0">
-    <p>Email: <a href="mailto:joaopedroszr@gmail.com">joaopedroszr@gmail.com</a></p>
-    <p>Portfólio: <a href="https://cvjoaopedro.netlify.app">cvjoaopedro.netlify.app</a></p>
-  </div>
+  - Email: [joaopedroszr@gmail.com](mailto:joaopedroszr@gmail.com)
+  - Portfólio: [cvjoaopedro.netlify.app](https://cvjoaopedro.netlify.app)
 - **Trabalho Atual:** Estagiário no GrupoGet
 - **Local:** Belo Horizonte/MG
 
