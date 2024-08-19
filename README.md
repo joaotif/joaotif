@@ -13,7 +13,6 @@ Atualmente, estou cursando o último ano do curso de Tecnologia da Informação 
 
 - **Linguagens de Programação:**
   - C#
-  - Java
   - JavaScript
   - PHP
   - SQL
