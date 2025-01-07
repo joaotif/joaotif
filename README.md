@@ -3,11 +3,11 @@
 ### Joao P. Soares
 
 - **Email**: [joaopedroszr@gmail.com](mailto:joaopedroszr@gmail.com)
-- **Área:** Desenvolvedor de Software
+- **Área:** Engenheiro de Soluções Web e ERP
 
 ### Formação Acadêmica
 
-Atualmente, estou cursando o último ano do curso de Tecnologia da Informação no Cotemig. Minha formação tem me proporcionado uma base sólida em diversas áreas da TI, me preparando para enfrentar desafios do mercado de trabalho.
+Técnico em Informática cursado do COTEMIG - Colégio e Faculdade
 
 ### Habilidades Técnicas
 
