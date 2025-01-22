@@ -7,7 +7,7 @@
 
 ### Formação Acadêmica
 
-Técnico em Informática cursado do COTEMIG - Colégio e Faculdade
+Técnico em Informática cursado no COTEMIG - Colégio e Faculdade
 
 ### Habilidades Técnicas
 
