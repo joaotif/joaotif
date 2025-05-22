@@ -7,8 +7,8 @@
 
 ### Formação Acadêmica
 
-- Técnico em Informática cursado no COTEMIG - Colégio e Faculdade
 - Sistemas de Informação - Cursando na UniBh
+- Técnico em Informática cursado no COTEMIG - Colégio e Faculdade
 
 ### Habilidades Técnicas
 
