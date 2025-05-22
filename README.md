@@ -1,6 +1,6 @@
 ## Sobre Mim
 
-### Joao P. Soares
+### João Pedro Soares Ribeiro
 
 - **Email**: [joaopedroszr@gmail.com](mailto:joaopedroszr@gmail.com)
 - **Área:** Desenvolvedor de Soluções Web e ERP
