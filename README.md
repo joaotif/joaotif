@@ -12,7 +12,7 @@
 
 ### Habilidades Técnicas
 
-- **Linguagens de Programação:**
+- **Linguagens:**
   - C#
   - JavaScript
   - PHP
