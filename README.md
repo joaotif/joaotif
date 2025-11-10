@@ -7,7 +7,7 @@
 
 ### Formação Acadêmica
 
-- Sistemas de Informação - Cursando na UniBh
+- Sistemas de Informação - Cursando
 - Técnico em Informática cursado no COTEMIG - Colégio e Faculdade
 
 ### Habilidades Técnicas
