@@ -3,7 +3,7 @@
 ### Detalhes
 
 - **Email**: [joaopedroszr@gmail.com](mailto:joaopedroszr@gmail.com)
-- **Área:** Desenvolvedor de Soluções Web e ERP
+- **Área:** Desenvolvedor de Soluções Web
 
 ### Formação Acadêmica
 
