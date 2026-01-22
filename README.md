@@ -7,7 +7,7 @@
 
 ### Formação Acadêmica
 
-- Sistemas de Informação - Cursando
+- Ciências da Computação - Cursando
 - Técnico em Informática cursado no COTEMIG - Colégio e Faculdade
 
 ### Habilidades Técnicas
