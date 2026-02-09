@@ -8,18 +8,21 @@
 ### Formação Acadêmica
 
 - Ciências da Computação - Cursando
-- Técnico em Informática cursado no COTEMIG - Colégio e Faculdade
+- Técnico em Informática | COTEMIG - Colégio e Faculdade
 
 ### Habilidades Técnicas
 
 - **Linguagens:**
-  - C#
-  - JavaScript
   - PHP
-  - SQL
+  - PostgreSQL
+  - Oracle
+  - C#
+  - HTML, CSS & JavaScript
 
 - **Bibliotecas:**
   - JQuery
+  - React
+  - CharJS
 
 - **Frameworks:**
   - Laravel
