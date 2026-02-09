@@ -23,6 +23,7 @@
   - JQuery
   - React
   - CharJS
+  - EmailJS
 
 - **Frameworks:**
   - Laravel
